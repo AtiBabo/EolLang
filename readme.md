@@ -1,12 +1,3 @@
-# 목차
-<a href=https://github.com/itcomputer11/Eol_Lang/edit/main/README.md#-%EB%AC%B8%EB%B2%95>0. 💻 문법</a>
-
-<details>
-<summary> <a href=https://github.com/itcomputer11/Eol_Lang/edit/main/README.md#-eol-lang>1. ✔️ 연산자</a></summary>
-
-<a href=https://github.com/itcomputer11/Eol_Lang/edit/main/README.md#%EC%88%AB%EC%9E%90>1-1. 숫자</a></summary>
-</details>
-
 # 🧊 Eol Lang 
 이 언어를 설명을 하기 위해 아주 많은 고민을 하였지만 여백이 부족하여 이를 적지 않겠다.
 
