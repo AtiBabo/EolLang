@@ -2,6 +2,10 @@ import logger
 import compute
 
 def Run(dir):
+    if not dir.lower().endswith(".eol"):
+        logger.printError("0% 완료")
+        return
+    
     logger.printInfo(f'\"{dir}\" 가 실행되었습니다.')
     
     code_list = []
