@@ -32,7 +32,7 @@ def Run(code):
                 logger.printError("과부하!")
                 return "과부하!"
         
-        if counter == 0 and line != "나는": # 오류 처리
+        if counter == 1 and line != "나는": # 오류 처리
             logger.printError("0% 완료")
             return "0% 완료"
         elif counter == len(code_list):
