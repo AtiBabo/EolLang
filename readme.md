@@ -5,7 +5,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="40%"><a href="https://github.com/itcomputer11"><img src="https://avatars.githubusercontent.com/u/96653318?v=4?s=100" width="100px;" alt="Ati"/><br /><sub><b>ITcomputer</b></sub></a><br /><a>💻</a></td>
+      <td align="center" valign="top" width="40%"><a href="https://github.com/itcomputer11"><img src="https://avatars.githubusercontent.com/u/96653318?v=4?s=100" width="100px;" alt="Ati"/><br /><sub><b>Ati</b></sub></a><br /><a>💻</a></td>
       <td align="center" valign="top" width="40%"><a href="https://github.com/MAKEREKAM"><img src="https://avatars.githubusercontent.com/u/116092283?v=4?s=100" width="105px;" alt="Maicer"/><br /><sub><b>Maicer</b></sub></a><br /><a>💻</a></td>
     </tr>
   </tbody>
